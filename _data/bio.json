@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "Alanna Mellor",
+    "label": "Undergraduate Student",
+    "picture": "https://github.com/anmell.png",
+    "email": "mellora@hawaii.edu",
+    "phone": "808-469-2796",
+    "website": "https://anmell.github.io",
+    "summary": "I am currently a student at the Shidler's College of Business, University of Hawaii at Manoa. I am pursuing my BBA in both Management of Information Systems, as well as International Business. My expected graduation date it Fall 2024.",
+    "location": { "": "", "postalCode": "96744", "city": "Kaneohe", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "anmell", "url": "http://github.com/anmell" }
+    ]
+  },
+  "interests": [
+    { "name": "Travel" },
+    { "name": "Wellness" },
+    { "name": "Technology" },
+    { "name": "Reading" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "HTML", "Javascript (Pending)" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Management Information Systems and International Business (expected Fall 2024)",
+      "studyType": "B.B.A.",
+      "startDate": "2020-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Uahi Island Grill",
+      "position": "Server",
+      "website": "",
+      "startDate": "2019-04-19",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Customer service, table and reservation management, cashier operations",
+        "Ability to multi-task, ability to perform well under pressure, ability to work well with a team"
+      ]
+    },
+    {
+      "company": "Island Snow Hawaii",
+      "position": "Sales Associate",
+      "website": "",
+      "startDate": "2018-04-18",
+      "endDate": "2019-04-18",
+      "summary": "",
+      "highlights": [
+        "Customer service",
+        "Demonstration of flexibility in working both food and clothing sections of the store"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "UH Manoa Pacific Asia Travel Association (PATA)",
+      "website": "",
+      "position": "Member",
+      "startDate": "2022-09-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Exploration of career and internship opportunities relating to the travel industry"
+      ]
+    },
+    {
+      "organization": "Malama Mentors",
+      "website": "",
+      "position": "Mentor",
+      "startDate": "2018-09-01",
+      "endDate": "2019-05-15",
+      "summary": "",
+      "highlights": [
+        "Parterned elementary schoolchildren with high school students to foster healthy relationships and implement positive role models into the lives of young community memebers"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "UH Manoa Academic Merit Scholarship",
+      "date": "2020-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarships awarded to incoming and continuing college students that have maintained a GPA 3.8 or above "
+    },
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
